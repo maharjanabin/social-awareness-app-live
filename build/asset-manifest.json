@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.284867ae.chunk.css",
+    "main.js": "/static/js/main.6a534f83.chunk.js",
+    "main.js.map": "/static/js/main.6a534f83.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.62d5ec52.js",
+    "runtime-main.js.map": "/static/js/runtime-main.62d5ec52.js.map",
+    "static/js/2.5355680a.chunk.js": "/static/js/2.5355680a.chunk.js",
+    "static/js/2.5355680a.chunk.js.map": "/static/js/2.5355680a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.284867ae.chunk.css.map": "/static/css/main.284867ae.chunk.css.map",
+    "static/js/2.5355680a.chunk.js.LICENSE.txt": "/static/js/2.5355680a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/bg1.4f877a69.jpg",
+    "static/media/campaign7.8e9dac5d.jpg": "/static/media/campaign7.8e9dac5d.jpg",
+    "static/media/immigrationstress.8fece7a1.jpeg": "/static/media/immigrationstress.8fece7a1.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62d5ec52.js",
+    "static/js/2.5355680a.chunk.js",
+    "static/css/main.284867ae.chunk.css",
+    "static/js/main.6a534f83.chunk.js"
+  ]
+}
